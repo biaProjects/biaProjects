@@ -1,4 +1,7 @@
 ## Hello! I'm Beatriz, welcome to my GitHub!
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <br>
 <div>
   <ul>
@@ -12,6 +15,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaProjects&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+<br> 
+
+## 
+
+<br> 
+
+<div>
+  <a href="https://www.linkedin.com/in/bia-almeida-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bibia.almeida06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 ##  
 
 <div style="display: inline_block"><br>
@@ -20,11 +34,6 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://www.linkedin.com/in/bia-almeida-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bibia.almeida06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biaProjects/biaProjects/output/github-contribution-grid-snake-dark.svg">
