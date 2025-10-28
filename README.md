@@ -3,12 +3,15 @@
 <img src="https://ik.imagekit.io/bia/GitHub/computer-illustration.png?updatedAt=1761271014033" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br>
+
 <div>
   <ul>
     <li>Back-End Enabled Learning Mode 🤖</li>
   </ul>
 </div>
+
 <br>
+
 <div>
   <a href="https://github.com/biaProjects">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaProjects&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark"/> -->
@@ -29,7 +32,7 @@
 ##  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </div>
 
