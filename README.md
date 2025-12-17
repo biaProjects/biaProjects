@@ -1,6 +1,6 @@
 ## Hello! I'm Beatriz, welcome to my GitHub!
 
-<img src="https://ik.imagekit.io/bia/GitHub/computer-illustration.png?updatedAt=1761271014033" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br>
 
