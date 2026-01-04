@@ -1,7 +1,7 @@
 ## Hello! I'm Beatriz, welcome to my GitHub!
 ### Backend Developer
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 <br>
 
@@ -11,15 +11,11 @@
   </ul>
 </div>
 
-<br>
-
-<div>
+<!-- <div>
   <a href="https://github.com/biaProjects">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaProjects&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaProjects&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaProjects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
-</div>
-
-<br> 
+</div> -->
 
 ##  
 
