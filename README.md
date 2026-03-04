@@ -1,5 +1,5 @@
-## Hello! I'm Beatriz, welcome to my GitHub!
-### Backend Developer
+<h2 align="center">Hello! I'm Beatriz, welcome to my GitHub!</h1>
+<h3 align="center">Backend Developer</h2>
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
@@ -13,7 +13,7 @@
 
 <!-- <div>
   <a href="https://github.com/biaProjects">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaProjects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaprojects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
 </div> -->
 
 <!-- <br> -->
