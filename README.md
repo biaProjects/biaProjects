@@ -1,9 +1,20 @@
-<h2 align="center">Hello! I'm Beatriz, welcome to my GitHub!</h1>
-<h3 align="center">Backend Developer</h2>
+<h2 align="center">Hello! I'm Beatriz - Welcome to my GitHub</h2>
+<h3 align="center">Backend Developer</h3>
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
+<p align="center">
+  <em>Coding my way through a journey of learning.</em>
+</p>
 
 <br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/bia-almeida-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:bibia.almeida06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div>
   <ul>
@@ -11,32 +22,25 @@
   </ul>
 </div>
 
-<!-- <div>
+<br> 
+
+<div>
   <a href="https://github.com/biaProjects">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaprojects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
-</div> -->
+</div>
 
-<!-- <br> -->
+<br>
 
 ##  
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </div>
-
-##
-
-<br> 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bia-almeida-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bibia.almeida06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
+ 
 ##
 
 <div align="center">
