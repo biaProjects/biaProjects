@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 <div>
   <ul>
@@ -22,14 +22,14 @@
   </ul>
 </div>
 
-<br> 
+<!-- <br>  -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/biaProjects">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaprojects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->
 
 ##  
 
