@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://github.com/biaProjects">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biaproject&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=biaprojects&layout=compact&langs_count=16&theme=dark&cache_seconds=60000"/>
 </div>
 
 <br>
